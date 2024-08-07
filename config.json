@@ -1,0 +1,22 @@
+{
+    "folder_name": "court_study",
+    "planks_width": 16,
+    "planks_length": 100,
+    "random_seed": 1738,
+    "line_thickness": 1,
+    "hardwood_color": [210, 170, 100],
+    "courts": [
+        {
+            "name": "vancouver_grizzlies",
+            "paint_in": [0, 125, 255],
+            "paint_out": [0, 125, 255],
+            "paint_lines": [255, 255, 255],
+            "freethrow_in": [255, 40, 40],
+            "freethrow_out": [255, 40, 40],
+            "threept": [180, 220, 255],
+            "center": [255, 40, 40],
+            "out_lines": [0, 125, 255],
+            "floor": [255, 255, 255]
+        }
+    ]
+}

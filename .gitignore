@@ -1,0 +1,39 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment directories
+venv/
+env/
+ENV/
+.venv/
+
+# Distribution and packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE/editor directories and files
+.vscode/
+.idea/
+*.swp
+
+# Log files
+*.log
+
+# Environment variables file
+.env
+
+# Miscellaneous
+*.tmp
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
